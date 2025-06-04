@@ -9,7 +9,7 @@ A high-quality pull request (PR) is essential for maintaining scalable, maintain
 - [ ] This branch implements **a single responsibility** (e.g., feature, bugfix, style, refactor).
 - [ ] I have used **conventional commit messages** and **descriptive branch names**.
 - [ ] All modified or newly created folders/files follow **clear, descriptive naming conventions**.
-- [ ] The PR includes a link to the **associated task/ticket** (JIRA, Rally, Trello, GitHub issue, etc.).
+- [ ] The PR includes a link to the **associated task/ticket** (JIRA, Rally, Trello, GitHub issue).
 
 ---
 
@@ -40,7 +40,7 @@ This checklist is part of **Codewalnut’s quality-first delivery process**. It 
 
 ## 🔍 Reviewer Checklist
 
-- [ ] PR is limited to a single logical unit (feature, fix, etc.).
+- [ ] PR is limited to a single logical unit (feature, fix).
 - [ ] All tests pass locally and in CI.
 - [ ] Code is readable, self-explanatory, and adheres to project conventions.
 - [ ] No obvious performance issues or accessibility concerns.
